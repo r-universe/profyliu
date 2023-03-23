@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "brif"]
+	path = brif
+	url = https://github.com/cran/brif
+	shallow = true
+	registered = true
 [submodule "bsnsing"]
 	path = bsnsing
 	url = https://github.com/profyliu/bsnsing
